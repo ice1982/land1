@@ -1,0 +1,14 @@
+ErrorDocument 403 /404.html
+ErrorDocument 404 /404.html
+
+RewriteEngine On
+
+RewriteRule ^httpukrushkaru$ page17839.html [NC]
+RewriteRule ^httpukrushkaru/$ page17839.html [NC]
+
+RewriteRule ^freshwindru$ page17953.html [NC]
+RewriteRule ^freshwindru/$ page17953.html [NC]
+
+RewriteRule ^httpstildaccpagepageid18002$ page18002.html [NC]
+RewriteRule ^httpstildaccpagepageid18002/$ page18002.html [NC]
+
